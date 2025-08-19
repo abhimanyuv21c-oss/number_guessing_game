@@ -15,7 +15,7 @@ A simple CLI (Command Line Interface) number guessing game built with Python.
 1. Make sure you have Python 3 installed.
 
 2. Clone/download this repository:
-git clone https://github.com/yourusername/number-guessing-game.git
+git clone https://github.com/abhimanyuv21c-oss/number-guessing-game.git
 
 3. Navigate into the project folder:
 cd number-guessing-game
