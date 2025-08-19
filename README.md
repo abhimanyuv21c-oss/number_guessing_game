@@ -24,7 +24,8 @@ cd number-guessing-game
 python number_guessing_game.py
 
 ## Project URL
+https://github.com/abhimanyuv21c-oss/number_guessing_game
 
-[https://github.com/abhimanyuv21c-oss/number_guessing_game]
-(https://github.com/abhimanyuv21c-oss/number_guessing_game)
-
+## Project Page
+You can view the project here:  
+https://github.com/abhimanyuv21c-oss/number_guessing_game
