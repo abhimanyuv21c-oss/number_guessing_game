@@ -22,3 +22,8 @@ cd number-guessing-game
 
 4. Run the game:
 python number_guessing_game.py
+
+## Project Page
+
+You can view the project here:  
+https://github.com/abhimanyuv21c-oss/number_guessing_game
